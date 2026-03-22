@@ -1,0 +1,101 @@
+{
+  "profiles": [
+    {
+      "id": "kafferisteri-dk-001",
+      "companyName": "Nordic Kaffe ApS",
+      "email": "salg@nordickaffe.dk",
+      "industries": [
+        "kaffe",
+        "drikkevarer",
+        "fødevarer"
+      ],
+      "keywords": [
+        "kaffe",
+        "coffee",
+        "kaffemaskin",
+        "espresso",
+        "brændt kaffe",
+        "kaffebønner",
+        "kaffeautomater",
+        "kaffemaskiner"
+      ],
+      "regions": [
+        "DK",
+        "SE",
+        "NO"
+      ],
+      "maxBudget": null,
+      "active": true
+    },
+    {
+      "id": "webbureau-se-001",
+      "companyName": "Nordic Webbyrå AB",
+      "email": "info@nordicweb.se",
+      "industries": [
+        "software",
+        "it",
+        "web"
+      ],
+      "keywords": [
+        "web development",
+        "software",
+        "IT services",
+        "IT konsulent",
+        "chatbot",
+        "digital",
+        "AI system",
+        "it-tjenester"
+      ],
+      "regions": [
+        "SE",
+        "DK",
+        "NO"
+      ],
+      "maxBudget": null,
+      "active": true
+    },
+    {
+      "id": "entreprenor-de-001",
+      "companyName": "BauPartner GmbH",
+      "email": "info@baupartner.de",
+      "industries": [
+        "byg",
+        "construction",
+        "håndværk"
+      ],
+      "keywords": [
+        "construction",
+        "bygning",
+        "bygge",
+        "bygge- og anlægsarbejder",
+        "snedker",
+        "hovedentrepriser",
+        "håndværk",
+        "byggemodning"
+      ],
+      "regions": [
+        "DE",
+        "AT",
+        "NL"
+      ],
+      "maxBudget": null,
+      "active": true
+    },
+    {
+      "id": "pending-test-example-com-qyyj",
+      "companyName": "test",
+      "email": "test@example.com",
+      "industries": [],
+      "keywords": [],
+      "regions": [
+        "DK"
+      ],
+      "maxBudget": null,
+      "active": false,
+      "status": "pending",
+      "plan": "pro",
+      "createdAt": "2026-03-22T09:22:07.902Z",
+      "source": "landing-page"
+    }
+  ]
+}

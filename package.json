@@ -1,0 +1,21 @@
+{
+  "name": "tender-alert-pro",
+  "version": "0.1.0",
+  "description": "B2B SaaS — match EU tenders with customer profiles and send personalized alerts",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "start:prod": "node dist/index.js",
+    "build": "tsc",
+    "test": "ts-node src/index.ts /Users/teddy/.openclaw/workspace/udbud-scraper/data/results.json"
+  },
+  "keywords": ["tender", "eu", "ted", "b2b", "saas", "matching"],
+  "author": "Tender Alert Pro",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.0"
+  }
+}

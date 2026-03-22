@@ -1,0 +1,278 @@
+{
+  "generatedAt": "2026-03-22T09:05:33.529Z",
+  "totalTenders": 74,
+  "totalProfiles": 3,
+  "totalMatches": 18,
+  "matches": [
+    {
+      "tenderId": "116827-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 100,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"kaffemaskin\", \"kaffemaskiner\" (+50pts)",
+        "Land matcher: Danmark (DK) (+30pts)",
+        "Industri match: \"kaffe\", \"drikkevarer\", \"fødevarer\" (+20pts)"
+      ],
+      "tenderTitle": "Danmark – Fødevarer, drikkevarer, tobak og beslægtede produkter – Genudbud af kaffe, tilbehørsprodukter, kaffemaskiner og service",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/116827-2026",
+      "tenderCountry": "Danmark",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "158301-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 90,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"coffee\", \"kaffemaskin\", \"kaffemaskiner\" (+50pts)",
+        "Land matcher: Norge (NO) (+30pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Norge – Elektriske kaffemaskiner – Coffee machines and tap towers for water.",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/158301-2026",
+      "tenderCountry": "Norge",
+      "tenderDeadline": "2026-03-26",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "175476-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 90,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"coffee\", \"kaffemaskin\", \"kaffemaskiner\" (+50pts)",
+        "Land matcher: Norge (NO) (+30pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Norge – Elektriske kaffemaskiner – Coffee machines and tap towers for water.",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/175476-2026",
+      "tenderCountry": "Norge",
+      "tenderDeadline": "2026-04-13",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "146003-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 80,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"brændt kaffe\" (+40pts)",
+        "Land matcher: Sverige (SE) (+30pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Sverige – Brændt kaffe – Kaffe",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/146003-2026",
+      "tenderCountry": "Sverige",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "147869-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 80,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"coffee\" (+40pts)",
+        "Land matcher: Norge (NO) (+30pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Norge – Installation af elektrisk udstyr – Coffee machines and water coolers - Leasing contract",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/147869-2026",
+      "tenderCountry": "Norge",
+      "tenderDeadline": "2026-03-30",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "149961-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 80,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"coffee\" (+40pts)",
+        "Land matcher: Norge (NO) (+30pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Norge – Installation af elektrisk udstyr – Coffee machines and water coolers - Leasing contract",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/149961-2026",
+      "tenderCountry": "Norge",
+      "tenderDeadline": "2026-04-08",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "161958-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 80,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"coffee\" (+40pts)",
+        "Land matcher: Norge (NO) (+30pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Norge – Kantine- og cateringvirksomhed – Operation of a canteen and UDI Valle view coffee shop.",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/161958-2026",
+      "tenderCountry": "Norge",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "178498-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 80,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"coffee\" (+40pts)",
+        "Land matcher: Norge (NO) (+30pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Norge – Kaffe, te og hermed beslægtede produkter – Framework agreement for the hire of coffee machines and the procurement of accompanying consumables.",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/178498-2026",
+      "tenderCountry": "Norge",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "106887-2026",
+      "profileId": "entreprenor-de-001",
+      "score": 80,
+      "reasons": [
+        "Keywords match: \"bygge\", \"bygge- og anlægsarbejder\" (+40pts)",
+        "Land matcher: Tyskland (DE) (+30pts)",
+        "Industri match: \"byg\" (+10pts)"
+      ],
+      "tenderTitle": "Tyskland – Hoved- eller fagentrepriser i forbindelse med bygge- og anlægsarbejder – Umgestaltung Rathausquartier + Fußgängerzone Heidenheim",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/106887-2026",
+      "tenderCountry": "Tyskland",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "🤖 AI & ML"
+    },
+    {
+      "tenderId": "122889-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 65,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"kaffemaskin\", \"kaffemaskiner\" (+50pts)",
+        "Anden region: Belgien (+5pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Belgien – Elektriske kaffemaskiner – Raamovereenkomst voor het huren van koffieautomaten en het aankopen van koffiebonen",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/122889-2026",
+      "tenderCountry": "Belgien",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "107196-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 65,
+      "reasons": [
+        "Keywords match: \"kaffe\" (+15pts)",
+        "Land matcher: Sverige (SE) (+30pts)",
+        "Industri match: \"kaffe\", \"drikkevarer\", \"fødevarer\" (+20pts)"
+      ],
+      "tenderTitle": "Sverige – Fødevarer, drikkevarer, tobak og beslægtede produkter – Livsmedel - Färsk frukt och färska grönsaker",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/107196-2026",
+      "tenderCountry": "Sverige",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "150124-2026",
+      "profileId": "webbureau-se-001",
+      "score": 65,
+      "reasons": [
+        "Keywords match: \"chatbot\", \"digital\", \"it-tjenester\" (+50pts)",
+        "Anden region: Belgien (+5pts)",
+        "Industri match: \"it\" (+10pts)"
+      ],
+      "tenderTitle": "Belgien – It-tjenester: rådgivning, programmeludvikling, internet og support – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/150124-2026",
+      "tenderCountry": "Belgien",
+      "tenderDeadline": "2026-03-12",
+      "tenderCategory": "🤖 AI & ML"
+    },
+    {
+      "tenderId": "125267-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 55,
+      "reasons": [
+        "Keywords match: \"kaffe\" (+15pts)",
+        "Land matcher: Danmark (DK) (+30pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Danmark – Kaffe, te og hermed beslægtede produkter – Kaffe, te og tilhørende produkter samt maskiner/automater med tilhørende serviceaftaler",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/125267-2026",
+      "tenderCountry": "Danmark",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "144861-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 55,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"coffee\" (+40pts)",
+        "Anden region: Frankrig (+5pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Frankrig – Kantine- og cateringvirksomhed – Operation of the canteen and related services (self-service fridges and breakfast), catering services, vending machines, coffee machines and water dispensers in eu-LISA sites in Strasbourg Eurométropole",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/144861-2026",
+      "tenderCountry": "Frankrig",
+      "tenderDeadline": "2026-03-26",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "148355-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 55,
+      "reasons": [
+        "Keywords match: \"kaffe\" (+15pts)",
+        "Land matcher: Danmark (DK) (+30pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Danmark – Kaffe, te og hermed beslægtede produkter – Kaffe, te og maskiner",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/148355-2026",
+      "tenderCountry": "Danmark",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "163972-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 55,
+      "reasons": [
+        "Keywords match: \"kaffe\" (+15pts)",
+        "Land matcher: Sverige (SE) (+30pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Sverige – Drikkevareautomat – Dryckesautomater – Kaffe- och vattenautomater",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/163972-2026",
+      "tenderCountry": "Sverige",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "111203-2026",
+      "profileId": "kafferisteri-dk-001",
+      "score": 55,
+      "reasons": [
+        "Keywords match: \"kaffe\", \"espresso\" (+40pts)",
+        "Anden region: Italien (+5pts)",
+        "Industri match: \"kaffe\" (+10pts)"
+      ],
+      "tenderTitle": "Italien – Postbefordring og kurértjeneste – Gara europea a procedura aperta per l’affidamento del servizio di corriere espresso per la Camera di Commercio di Milano Monza Brianza Lodi e le sue società partecipate per il triennio 2026_2029",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/111203-2026",
+      "tenderCountry": "Italien",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "☕ Kaffe & Maskiner"
+    },
+    {
+      "tenderId": "106868-2026",
+      "profileId": "entreprenor-de-001",
+      "score": 55,
+      "reasons": [
+        "Keywords match: \"bygge\", \"byggemodning\" (+40pts)",
+        "Anden region: Frankrig (+5pts)",
+        "Industri match: \"byg\" (+10pts)"
+      ],
+      "tenderTitle": "Frankrig – Byggemodning – Travaux de dépollution de sols, autres travaux et services connexes sur la parcelle cadastrée AK33, dans le cadre l'opération d'aménagement ZAC entrée Est / secteur Sud, à Sète",
+      "tenderUrl": "https://ted.europa.eu/en/notice/-/detail/106868-2026",
+      "tenderCountry": "Frankrig",
+      "tenderDeadline": "Ikke angivet",
+      "tenderCategory": "🤖 AI & ML"
+    }
+  ]
+}
